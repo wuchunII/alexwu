@@ -11,5 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 print_hi("diwang")
+print("balabala")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
